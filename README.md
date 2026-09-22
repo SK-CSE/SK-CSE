@@ -1,16 +1,19 @@
-## Hi there 👋
+# Saurabh Kumar
 
-<!--
-**SK-CSE/SK-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Engineer · Backend & Cloud Systems**
 
-Here are some ideas to get you started:
+I build APIs, real-time applications, and cloud services, with a focus on clear design and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**JavaScript · TypeScript · Node.js · Go · MongoDB · Firebase**
+
+[Explore my portfolio ↗](https://sk-cse.github.io/)
+
+---
+
+### Explore my work
+
+**Backend & scale** — Go web services and Node.js server architecture.  
+**Real-time & cloud** — Socket.IO chat and serverless image processing.  
+**Foundations** — Data structures and algorithms in JavaScript.
+
+Browse the pinned projects below for code and implementation details.
