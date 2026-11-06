@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Saurabh Kumar — a Senior Technical Lead based in Bengaluru with 11+ years of engineering experience. I connect architecture, engineering, and people to build systems that stay clear as they scale. Currently at [Josys](https://www.josys.com/), I lead backend architecture and engineering for a B2B SaaS platform, working across distributed systems, event-driven design, APIs, reliability, and platform engineering. Previously I was a Senior Software Engineer at Mobile Premier League (MPL), building backend systems for high-scale consumer products serving 1M+ active customers. I care about the parts of engineering that look simple on a diagram and get hard in production: service boundaries, trade-offs, failure modes, and helping teams own what they build. Distributed systems, applied AI, and thoughtful engineering leadership are where my interests meet. I write and share work at [sk-cse.github.io](https://sk-cse.github.io/).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhkumar-io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-kumar-nit)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121013?logo=github&logoColor=white)](https://sk-cse.github.io/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/builtby_saurabh)
 
